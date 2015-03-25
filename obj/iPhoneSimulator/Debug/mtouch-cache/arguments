@@ -1,0 +1,29 @@
+# Version: 8.8.0.2 (ccfcd59)
+# [first argument, ignore] # /Volumes/HP V215B/Live/IOS/CustomCellTableview/CustomCellTableview.iOS/mtouch.exe
+/Library/Frameworks/Xamarin.iOS.framework/Versions/8.8.0.2/bin/mtouch-64 \
+	--cache \
+	"/Volumes/HP V215B/Live/IOS/CustomCellTableview/CustomCellTableview.iOS/obj/iPhoneSimulator/Debug/mtouch-cache" \
+	--sim \
+	"/Volumes/HP V215B/Live/IOS/CustomCellTableview/CustomCellTableview.iOS/bin/iPhoneSimulator/Debug/CustomCellTableview.iOS.app" \
+	--executable \
+	CustomCellTableview.iOS \
+	--debug \
+	--nolink \
+	--sdkroot \
+	"/Applications/Xcode 2.app/Contents/Developer" \
+	--sdk \
+	8.2 \
+	--targetver \
+	8.0 \
+	--abi=i386 \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Xml.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
+	"/Volumes/HP V215B/Live/IOS/CustomCellTableview/CustomCellTableview.iOS/bin/iPhoneSimulator/Debug//CustomCellTableview.iOS.exe" \

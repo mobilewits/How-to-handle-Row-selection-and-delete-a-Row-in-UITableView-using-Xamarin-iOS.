@@ -1,0 +1,48 @@
+/Users/harry/Projects/CustomCellTableview/CustomCellTableview.iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/harry/Projects/CustomCellTableview/CustomCellTableview.iOS/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.nib
+/Users/harry/Projects/CustomCellTableview/CustomCellTableview.iOS/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/Info.plist
+/Users/harry/Projects/CustomCellTableview/CustomCellTableview.iOS/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/UIViewController-vXZ-lx-hvc.nib
+/Users/harry/Projects/CustomCellTableview/CustomCellTableview.iOS/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/vXZ-lx-hvc-view-kh9-bI-dsS.nib
+/Users/harry/Projects/CustomCellTableview/CustomCellTableview.iOS/obj/iPhoneSimulator/Debug/actool/partial-info.plist
+/Users/harry/Projects/CustomCellTableview/CustomCellTableview.iOS/obj/iPhoneSimulator/Debug/actool/asset-manifest.plist
+/Users/harry/Projects/CustomCellTableview/CustomCellTableview.iOS/obj/iPhoneSimulator/Debug/Images/ic_facebook.png
+/Users/harry/Projects/CustomCellTableview/CustomCellTableview.iOS/bin/iPhoneSimulator/Debug/CustomCellTableview.iOS.exe.mdb
+/Users/harry/Projects/CustomCellTableview/CustomCellTableview.iOS/bin/iPhoneSimulator/Debug/CustomCellTableview.iOS.exe
+/Users/harry/Projects/CustomCellTableview/CustomCellTableview.iOS/obj/iPhoneSimulator/Debug/CustomCellTableview.iOS.exe
+/Users/harry/Projects/CustomCellTableview/CustomCellTableview.iOS/obj/iPhoneSimulator/Debug/CustomCellTableview.iOS.exe.mdb
+/Users/harry/Desktop/Xamarin Tutorials MJ/CustomCellTableview/CustomCellTableview.iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/harry/Desktop/Xamarin Tutorials MJ/CustomCellTableview/CustomCellTableview.iOS/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.nib
+/Users/harry/Desktop/Xamarin Tutorials MJ/CustomCellTableview/CustomCellTableview.iOS/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/Info.plist
+/Users/harry/Desktop/Xamarin Tutorials MJ/CustomCellTableview/CustomCellTableview.iOS/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/UIViewController-vXZ-lx-hvc.nib
+/Users/harry/Desktop/Xamarin Tutorials MJ/CustomCellTableview/CustomCellTableview.iOS/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/vXZ-lx-hvc-view-kh9-bI-dsS.nib
+/Users/harry/Desktop/Xamarin Tutorials MJ/CustomCellTableview/CustomCellTableview.iOS/obj/iPhoneSimulator/Debug/actool/partial-info.plist
+/Users/harry/Desktop/Xamarin Tutorials MJ/CustomCellTableview/CustomCellTableview.iOS/obj/iPhoneSimulator/Debug/actool/asset-manifest.plist
+/Users/harry/Desktop/Xamarin Tutorials MJ/CustomCellTableview/CustomCellTableview.iOS/obj/iPhoneSimulator/Debug/Images/ic_facebook.png
+/Users/harry/Desktop/Xamarin Tutorials MJ/CustomCellTableview/CustomCellTableview.iOS/obj/iPhoneSimulator/Debug/CustomCellTableview.iOS.exe
+/Users/harry/Desktop/Xamarin Tutorials MJ/CustomCellTableview/CustomCellTableview.iOS/obj/iPhoneSimulator/Debug/CustomCellTableview.iOS.exe.mdb
+/Users/harry/Desktop/Xamarin Tutorials MJ/CustomCellTableview/CustomCellTableview.iOS/bin/iPhoneSimulator/Debug/CustomCellTableview.iOS.exe.mdb
+/Users/harry/Desktop/Xamarin Tutorials MJ/CustomCellTableview/CustomCellTableview.iOS/bin/iPhoneSimulator/Debug/CustomCellTableview.iOS.exe
+/Users/HariWepuri/Downloads/CustomCellTableview/CustomCellTableview.iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/HariWepuri/Downloads/CustomCellTableview/CustomCellTableview.iOS/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.nib
+/Users/HariWepuri/Downloads/CustomCellTableview/CustomCellTableview.iOS/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/Info.plist
+/Users/HariWepuri/Downloads/CustomCellTableview/CustomCellTableview.iOS/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/UIViewController-vXZ-lx-hvc.nib
+/Users/HariWepuri/Downloads/CustomCellTableview/CustomCellTableview.iOS/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/vXZ-lx-hvc-view-kh9-bI-dsS.nib
+/Users/HariWepuri/Downloads/CustomCellTableview/CustomCellTableview.iOS/obj/iPhoneSimulator/Debug/actool/partial-info.plist
+/Users/HariWepuri/Downloads/CustomCellTableview/CustomCellTableview.iOS/obj/iPhoneSimulator/Debug/actool/asset-manifest.plist
+/Users/HariWepuri/Downloads/CustomCellTableview/CustomCellTableview.iOS/obj/iPhoneSimulator/Debug/Images/ic_facebook.png
+/Users/HariWepuri/Downloads/CustomCellTableview/CustomCellTableview.iOS/obj/iPhoneSimulator/Debug/CustomCellTableview.iOS.exe
+/Users/HariWepuri/Downloads/CustomCellTableview/CustomCellTableview.iOS/obj/iPhoneSimulator/Debug/CustomCellTableview.iOS.exe.mdb
+/Users/HariWepuri/Downloads/CustomCellTableview/CustomCellTableview.iOS/bin/iPhoneSimulator/Debug/CustomCellTableview.iOS.exe.mdb
+/Users/HariWepuri/Downloads/CustomCellTableview/CustomCellTableview.iOS/bin/iPhoneSimulator/Debug/CustomCellTableview.iOS.exe
+/Volumes/HP V215B/Live/IOS/CustomCellTableview/CustomCellTableview.iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Volumes/HP V215B/Live/IOS/CustomCellTableview/CustomCellTableview.iOS/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.nib
+/Volumes/HP V215B/Live/IOS/CustomCellTableview/CustomCellTableview.iOS/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/Info.plist
+/Volumes/HP V215B/Live/IOS/CustomCellTableview/CustomCellTableview.iOS/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/UIViewController-vXZ-lx-hvc.nib
+/Volumes/HP V215B/Live/IOS/CustomCellTableview/CustomCellTableview.iOS/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/vXZ-lx-hvc-view-kh9-bI-dsS.nib
+/Volumes/HP V215B/Live/IOS/CustomCellTableview/CustomCellTableview.iOS/obj/iPhoneSimulator/Debug/actool/partial-info.plist
+/Volumes/HP V215B/Live/IOS/CustomCellTableview/CustomCellTableview.iOS/obj/iPhoneSimulator/Debug/actool/asset-manifest.plist
+/Volumes/HP V215B/Live/IOS/CustomCellTableview/CustomCellTableview.iOS/obj/iPhoneSimulator/Debug/Images/ic_facebook.png
+/Volumes/HP V215B/Live/IOS/CustomCellTableview/CustomCellTableview.iOS/bin/iPhoneSimulator/Debug/CustomCellTableview.iOS.exe.mdb
+/Volumes/HP V215B/Live/IOS/CustomCellTableview/CustomCellTableview.iOS/bin/iPhoneSimulator/Debug/CustomCellTableview.iOS.exe
+/Volumes/HP V215B/Live/IOS/CustomCellTableview/CustomCellTableview.iOS/obj/iPhoneSimulator/Debug/CustomCellTableview.iOS.exe
+/Volumes/HP V215B/Live/IOS/CustomCellTableview/CustomCellTableview.iOS/obj/iPhoneSimulator/Debug/CustomCellTableview.iOS.exe.mdb
